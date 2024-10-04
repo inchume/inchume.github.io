@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inchume.github.io/sitemap.html.gz
+Sitemap: https://inchume.github.io/app/sitemap.html.gz
+Sitemap: https://inchume.github.io/assets/sitemap.html.gz
+Sitemap: https://inchume.github.io/css/sitemap.html.gz
+Sitemap: https://inchume.github.io/data/sitemap.html.gz
+Sitemap: https://inchume.github.io/includes/sitemap.html.gz
+Sitemap: https://inchume.github.io/item/sitemap.html.gz
+Sitemap: https://inchume.github.io/src/sitemap.html.gz
